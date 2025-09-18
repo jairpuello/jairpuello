@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy un Desarrollador Fullstack 👋</h1>
+<h1 align="center">Hola, soy un Desarrollador web y móvil 👋</h1>
 
 ---
 
@@ -17,8 +17,8 @@ Soy una persona autodidacta, metódica y comprometida en llevar los proyectos de
 - 🔭 **Actualmente:** Construyendo soluciones web robustas con Laravel y explorando las últimas tendencias en desarrollo de APIs.
 - 🌱 **Siempre aprendiendo:** Profundizando en arquitectura de microservicios y explorando nuevas herramientas de CI/CD.
 - 💬 **Pregúntame sobre:** Desarrollo backend (Laravel), diseño de APIs RESTful, Flutter y optimización de bases de datos.
-- 📫 **Cómo contactarme:** Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-perfil-linkedin) o enviarme un correo a [tu-correo@example.com](mailto:tu-correo@example.com).
-- ⚡ **Dato curioso:** Soy un entusiasta de la fotografía de paisajes y un ávido lector de ciencia ficción.
+- 📫 **Cómo contactarme:** Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/jair-puello-puello) o enviarme un correo a [jairpuello@gmail.com](mailto:jairpuello@gmail.com).
+
 
 ---
 
@@ -54,11 +54,11 @@ Aquí están algunas de las tecnologías y herramientas con las que me encanta t
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO&show_icons=true&theme=nord&count_private=true&hide=contribs,prs" alt="Mis Estadísticas de GitHub" />
+        <img src="https://github-readme-stats.vercel.app/api?username=jairpuello&show_icons=true&theme=nord&count_private=true&hide=contribs,prs" alt="Mis Estadísticas de GitHub" />
     </a>
     <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_NOMBRE_DE_USUARIO&layout=compact&theme=nord&hide=html,css" alt="Mis Lenguajes Más Usados" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairpuello&layout=compact&theme=nord&hide=html,css" alt="Mis Lenguajes Más Usados" />
     </a>
 </p>
 
